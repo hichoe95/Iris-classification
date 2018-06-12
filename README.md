@@ -13,14 +13,14 @@ I used Iris data set(http://archive.ics.uci.edu/ml/datasets/Iris).
 -- Iris Versicolour 
 -- Iris Virginica
 
-Train data : 70% of Iris dataset,
+Train data : 70% of Iris dataset  
 Test data : 30% of Iris dataset
 
 ## Usage
 
-Python 3 
-Pytorch 0.4.0 
-Loss function : corss entropy loss 
-Optimizer : Stochastic gradient loss 
-Learning rate : 0.01 
-Epoch : 200 
+Python 3  
+Pytorch 0.4.0  
+Loss function : corss entropy loss  
+Optimizer : Stochastic gradient loss  
+Learning rate : 0.01  
+Epoch : 200  
