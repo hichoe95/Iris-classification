@@ -8,10 +8,10 @@ I used Iris data set(http://archive.ics.uci.edu/ml/datasets/Iris).
 2. sepal width in cm 
 3. petal length in cm 
 4. petal width in cm 
-5. class: 
--- Iris Setosa 
--- Iris Versicolour 
--- Iris Virginica
+5. class:  
+-- Iris Setosa  
+-- Iris Versicolour  
+-- Iris Virginica  
 
 Train data : 70% of Iris dataset  
 Test data : 30% of Iris dataset
