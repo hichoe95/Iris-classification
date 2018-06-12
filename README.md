@@ -18,9 +18,9 @@ Test data : 30% of Iris dataset
 
 ## Usage
 
-Python 3
-Pytorch 0.4.0
-Loss function : corss entropy loss
-Optimizer : Stochastic gradient loss
-Learning rate : 0.01
-Epoch : 200
+Python 3 
+Pytorch 0.4.0 
+Loss function : corss entropy loss 
+Optimizer : Stochastic gradient loss 
+Learning rate : 0.01 
+Epoch : 200 
