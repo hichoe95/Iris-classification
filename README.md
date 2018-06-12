@@ -13,7 +13,7 @@ I used Iris data set(http://archive.ics.uci.edu/ml/datasets/Iris).
 -- Iris Versicolour 
 -- Iris Virginica
 
-Train data : 70% of Iris dataset
+Train data : 70% of Iris dataset,
 Test data : 30% of Iris dataset
 
 ## Usage
